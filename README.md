@@ -1,3 +1,6 @@
+Kaikas 지갑연동을 위한 Clone 프로젝트입니다.
+
+
 # Sample project to connect with Klaytn Wallets
 
 https://user-images.githubusercontent.com/32922423/146496299-aa323f9c-acf5-4362-ac2e-e190cd9887b6.mov
